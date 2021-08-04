@@ -2,3 +2,5 @@ GIT:
     Repository - Projekt
     Commit     - Zwischenspeicher der Dateien (Versionen)
     
+
+Jetzt möchten wir unsere Erzeugnisse ins Internet hochladen.
