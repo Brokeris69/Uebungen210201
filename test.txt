@@ -1,0 +1,4 @@
+GIT:
+    Repository - Projekt
+    Commit     - Zwischenspeicher der Dateien (Versionen)
+    
